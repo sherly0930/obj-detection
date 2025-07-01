@@ -10,3 +10,6 @@
 - Build a React.JS app that accesses your webcam 4
 - Make detections from your webcam in real time
 - Customise detection styling
+
+Instruction:
+"npm start" to run the app
