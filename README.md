@@ -11,5 +11,5 @@
 - Make detections from your webcam in real time
 - Customise detection styling
 
-## Running App Instruction:
+## Running App Instruction
 Type: "npm start" to run the app
