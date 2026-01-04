@@ -1,4 +1,6 @@
-## Real-time Object Detection App with Tensorflow.JS and React.JS 
+## Real-time Object Detection Web Application with Tensorflow.JS and React.JS 
+
+This is a self-learning hands-on project based on a tutorial. The real-time object detection application uses TensorFlow.js and React.js to detect and localize objects from a live webcam.
 
 ## Features
 - Install Node.js to use Tensorflow.JS and React.JS  
