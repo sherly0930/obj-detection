@@ -14,5 +14,5 @@ This is a self-learning hands-on project based on a tutorial. The real-time obje
 - Customise detection styling
 
 ## Running App Instruction
-Navigate to C drive where the folder named ReactComputerVisionTemplate is stored  C:\Users\User\ReactComputerVisionTemplate> (or your own folder name) 
-Type: "npm start" to run the app
+- Navigate to C drive where the folder named ReactComputerVisionTemplate is stored  C:\Users\User\ReactComputerVisionTemplate> (or your own folder name) 
+- Type: "npm start" to run the app
